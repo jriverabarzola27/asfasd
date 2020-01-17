@@ -40,3 +40,8 @@ esc + shift + z || z
 ----PARA REGRESAR A LA VERSIÓN ANTERIOR
 
 git reset "CODIGO_DE_GIT" --hard
+
+
+---PARA SABER QUE SE CAMBIÓ EXACTAMENTE
+
+git log --stat
