@@ -3,3 +3,35 @@
 Johnny luis tiene 24 años
 
 johnny vive en Lima
+
+
+
+------------------
+--APUNTES DE GIT
+-----------------
+
+Cuando tu haces  git init
+creas un archivo en ram en la carpeta ""
+
+
+ahora los comandos son:
+
+------------------
+git init
+
+git  add "nombre del archivo" o .
+
+git commit -m "descripción del commit"
+------------------
+
+
+git status - para ver el status del proyecto o de un archivo
+
+git log - para ver el log de lo realizado
+
+git show - para ver que se realizo en ese archivo
+
+
+--para salir de la pantalla en la que no ingresas la descripción del commit--
+
+esc + shift + z || z
