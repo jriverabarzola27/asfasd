@@ -35,3 +35,8 @@ git show - para ver que se realizo en ese archivo
 --para salir de la pantalla en la que no ingresas la descripción del commit--
 
 esc + shift + z || z
+
+
+----PARA REGRESAR A LA VERSIÓN ANTERIOR
+
+git reset "CODIGO_DE_GIT" --hard
