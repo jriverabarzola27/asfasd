@@ -75,3 +75,20 @@ este comando para sacar archivos del área de Staging. No para borrarlos sino pa
 
 
 --------
+
+¿Cuál es la diferencia entre git rm y git reset HEAD?
+
+git config --globalalias.platzi "shortlog"
+
+
+Cuando hago un fork de un proyecto en Github, lo que logro es...
+
+En un repositorio público en Github, los colaboradores pueden...
+
+Los tags en Git crean...
+
+
+Se crean dos archivos cuando creas una llave pública y privada para SSH. La extensión de la llave privada es...
+
+
+Las llaves públicas son...
