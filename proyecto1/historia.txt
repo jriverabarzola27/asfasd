@@ -54,3 +54,6 @@ para poder ver la descripción del detalle de los commits es importante verifica
 git log --graph --decorate --oneline
 
 alias arbolito = (git log --graph --decorate --oneline)
+
+
+git remote add 
