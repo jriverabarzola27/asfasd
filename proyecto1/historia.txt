@@ -57,3 +57,21 @@ alias arbolito = (git log --graph --decorate --oneline)
 
 
 git remote add 
+
+------
+
+git rm
+
+este comando nos ayuda a eliminar archivos de GIT sin eliminar su historial del sistema de versiones
+
+git reset
+
+con este comando podemos volver en el tiempo pero sin la posibilidad de retornar
+hay dos tipos : git reset --hard o git reset --soft
+
+git reset HEAD
+
+este comando para sacar archivos del área de Staging. No para borrarlos sino para que los ultimos cambios no se envien en el último commit.
+
+
+--------
