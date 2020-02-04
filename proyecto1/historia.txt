@@ -92,3 +92,8 @@ Se crean dos archivos cuando creas una llave pública y privada para SSH. La ext
 
 
 Las llaves públicas son...
+
+------------------------------------
+----------------ETIQUETA DE PRUEBA
+------------------------------------
+sdasddasdasd
